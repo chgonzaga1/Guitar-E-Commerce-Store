@@ -1,0 +1,160 @@
+
+ h1 {
+	 
+	 font-family:'Bungee Inline';
+	 text-align: center;
+	 font-size: 20px;
+	 
+ }
+  
+  h4 {
+	  text-align:
+	  
+  }
+  
+  
+  
+  .red {
+                
+                color:red;
+                
+            }
+            
+ .large {
+                
+                font-size: 200%;
+                
+            }
+            
+ #green {
+                
+                color:green;
+            }
+        
+ .underlined {
+                
+                text-decoration: underline;
+                
+            }
+			
+		
+            
+#first-section {
+                
+                color:blue;
+                background-color: pink;
+                width:100px;
+                
+            }
+            
+#second-section {
+                
+                background-color: yellow;
+                
+            }
+			
+
+			
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FF0033;
+}
+
+
+
+
+
+li {
+    float:left;
+	
+}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: #FF0033;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+.float_left	{ 
+
+			background-color: white;
+			float:left;
+			width: 200px;
+			}
+ 
+.float_me { 
+		
+		
+			 color:#4285F4;
+             background-color: white;
+             width:500px;
+             float:left;
+			 text-align: center;
+			 }
+
+.float_right	{ 
+
+			background-color: white;
+			float:right;
+			width: 200px;
+			}			 
+			 
+
+.clear-float{
+	clear:both;
+	
+}
+
+.background_image	{position: absolute;
+						 top: 0px;
+						 left: 0px;
+						 z-index: 1; }
+
+.floated_title	{ background-color: white;
+						padding: 15px;
+						margin-left: .5em;
+						margin-bottom: .5em;
+						float: right; }
+						
+.floated_center	{ background-color: white;
+						
+						float: center; }
+
